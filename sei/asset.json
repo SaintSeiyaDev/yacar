@@ -1427,6 +1427,7 @@
     "name": "Saint Seiya",
     "symbol": "SEIYA",
     "decimals": "6",
-    "type": "cw20"
+    "type": "cw20",
+    "icon": "https://i.imgur.com/auN8dJU.png"
   }
 ]
