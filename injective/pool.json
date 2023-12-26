@@ -200,6 +200,16 @@
     "lp_token_id": "inj1g7gtweect96glmdxjkp7srn82ueuncf5kqxupq"
   },
   {
+    "id": "inj15gr03ahu60mqcv8cgcct5glp3j9uurjep2nnvy",
+    "asset_ids": [
+      "inj1367pnje9e8myaw04av6j2n5z7827407k4sa4m8",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "inj134t4sa24yyerjk2ulx8nzkmh4hxgvhfe934903"
+  },
+  {
     "id": "inj15k2t2r3q3p4w3nr5ktltnny2ssjlpcru036kat",
     "asset_ids": [
       "inj19gm2tefdz5lpx49veyqe3dhtqqkwmtyswv60ux",
@@ -308,6 +318,16 @@
     "dex": "Astroport",
     "type": "pcl",
     "lp_token_id": "inj1ratn8jsyll8hhhfm2aaa9ln9m82wqt6ygscxcp"
+  },
+  {
+    "id": "inj172qc307gncrzakm96ye5pa9ks065zwthsaewl6",
+    "asset_ids": [
+      "inj1dntprsalugnudg7n38303l3l577sxkxc6q7qt5",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "inj19myxjdne83rv9c4kektzywsaw9rkzukh94ls04"
   },
   {
     "id": "inj17jv8m999hl7ltm5k5739fw4lvj8827jv6p7k4k",
@@ -670,6 +690,16 @@
     "lp_token_id": "inj1flwvcyuy8nxtszp5ugnpwltva3ksl5lzn60hm4"
   },
   {
+    "id": "inj1j98pstwkpkmvwsr3jqt66u0yhmv2khld0gutkj",
+    "asset_ids": [
+      "inj1wjd2u3wq2dwyr7zlp09squh2xrqjlggy0vlftj",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "inj1z4pq7jw3vgr8vcyzrmx5fp6av39nfs389xa4q4"
+  },
+  {
     "id": "inj1j9qnpyzwkc7nxchx2x42s55kvjs6mx5dv6uce7",
     "asset_ids": [
       "inj1525sjr836apd4xkz8utflsm6e4ecuhar8qckhd",
@@ -870,6 +900,16 @@
     "lp_token_id": "inj1gdefuj6p5kgqrdt6szla0e5rp3mgd2fsuhvu2s"
   },
   {
+    "id": "inj1p78lg8p0vz6l5wmw8x0qs968tt32ndhx5aeqng",
+    "asset_ids": [
+      "inj1aalqnnh24ddn3vd9plnevwnxd03x7sevm77lps",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "inj1x7qywqhg9nlhgztaq7u7klnf2yjjhpsrsjccqc"
+  },
+  {
     "id": "inj1pjuzdutyfvq4gye0ejmjy336q4e2lv7s5hxxs7",
     "asset_ids": [
       "inj1ppg7jkl9vaj9tafrceq6awgr4ngst3n0musuq3",
@@ -940,6 +980,16 @@
     "lp_token_id": "inj1jfrh34rjhkhn8afdynqts6vhn3gy6qf24m7lge"
   },
   {
+    "id": "inj1qgl5v6tyqzu5lw7wlhmumrv2eg056hk2d8u65h",
+    "asset_ids": [
+      "inj165lcmjswrkuz2m5p45wn00qz4k2zpq8r9axkp9",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "inj1mnt3ah8y6utfhptg66vfwlm8xl62ncelqq4ztd"
+  },
+  {
     "id": "inj1qjxgwr4qjuxmt9a8qtn8pre3hv2p2qkwcpvsnw",
     "asset_ids": [
       "inj1pv567vvmkv2udn6llcnmnww78erjln35ut05kc",
@@ -948,6 +998,16 @@
     "dex": "Astroport",
     "type": "pcl",
     "lp_token_id": "inj1zrdtygdqrguudtvgfeuj7mgujvcjpmd7lgdfhn"
+  },
+  {
+    "id": "inj1qlgq8lmq54rek7h9vrghe6t4xv30kerzwsyeaa",
+    "asset_ids": [
+      "inj1nddcunwpg4cwyl725lvkh9an3s5cradaajuwup",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "inj15lzkghfe05m5ddu5pgcnguyt4xqjf8gylvd5c8"
   },
   {
     "id": "inj1r0yy2z5d5vmj6ws7zdkc4vlhl4jmjsam80tk92",
@@ -2070,6 +2130,16 @@
     "lp_token_id": "inj18y2kwsauulfq3nv6yfmvw2sjgm8qk6ru7rr6hw"
   },
   {
+    "id": "inj154kux5ef0csc3qq7vdnlasyp46ag7xg6q7t50k",
+    "asset_ids": [
+      "inj",
+      "factory/inj1s0ckch4dlp5eyx7khtqnt9dryd60v6ns4g0yn4/DOGE"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1lxqjma97tu62w9fuall5pmnyshfq9jusum5t4r"
+  },
+  {
     "id": "inj15890zgsd8jz3jd7w34xfsf8t4uc9cz0sqfy0pp",
     "asset_ids": [
       "factory/inj1h75s3ne4vjpp3wtf300uv2xuz7r9lt2xu87jjk/BAT",
@@ -2228,6 +2298,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "inj1dwlan2vxxsqazanag6lep0a2306ykzrpkrm6mk"
+  },
+  {
+    "id": "inj169qvw83up9xqer5qxagnh2c0nr8hx6eydaram7",
+    "asset_ids": [
+      "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+      "factory/inj1rmjzj9fn47kdmfk4f3z39qr6czexxe0yjyc546/WGMI"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1567hfl04fun8pv8amhknqydrrpmsh9kysyvr3j"
   },
   {
     "id": "inj16avlg6nspxp6fegzwmgx70u8qd5j3trp8rdzjp",
@@ -3760,6 +3840,16 @@
     "lp_token_id": "inj19t9f59rry4lk4uufdjly9jlgq47e2ak0tpdj2v"
   },
   {
+    "id": "inj1h3e69mew0a2vum2p0fl83e9lpe7v8w0tqmfhp0",
+    "asset_ids": [
+      "factory/inj13m5k0v69lrrng4y3h5895dlkr6zcp272jmhrve/Ninjutsu",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1umggjkwe8y39jq89wc7qlffl5aq3mgnfmhx49u"
+  },
+  {
     "id": "inj1h5prqmj6qg6q5tnupydg6ncxkhwcefnsth8ag4",
     "asset_ids": [
       "factory/inj1utlxkwfxhmfc826gu07w20mvguysavz72edy4n/h2o",
@@ -4310,6 +4400,16 @@
     "lp_token_id": "inj1xl9ued5m0wvxy709lnu7sjvqcc26klfvxf82rp"
   },
   {
+    "id": "inj1mks6etv0rmuvnhsyjvt84gs0y3uh4fp9s0amdf",
+    "asset_ids": [
+      "factory/inj1q42vrh9rhdnr20eq9ju9lymsxaqxcjpuqgd2cg/KZB",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1hz2kc049frwtqcv3llly4rqyvgpkya6sclqlrv"
+  },
+  {
     "id": "inj1mrkasrdmylhznhv4r8fze47jsjz2kj3py0uzq4",
     "asset_ids": [
       "factory/inj12ygx3scssu2d9rymtppaf6nks8qg08z9w3tml9/BCAT",
@@ -4328,6 +4428,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "inj16gk5664xccg262nf9lsjgcp6e77al7tfy22fn5"
+  },
+  {
+    "id": "inj1mud07l752cenvku0dsg6l59zcjdkhhdvq9hquw",
+    "asset_ids": [
+      "factory/inj1q42vrh9rhdnr20eq9ju9lymsxaqxcjpuqgd2cg/KBT",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1wqalhglnk0unzhp2zphazx7hu3ac8szavpkn3d"
   },
   {
     "id": "inj1mx60euu9dq09he43llwrwsgqntnyt3em4vsh2n",
@@ -4710,6 +4820,16 @@
     "lp_token_id": "inj1p9052ayg9mdju33dkwnj3ms3ykdpzrxtzlyksx"
   },
   {
+    "id": "inj1pz784h9acgdgk96kgjg5vzjyud2hhupy6r7kvk",
+    "asset_ids": [
+      "factory/inj1s0ckch4dlp5eyx7khtqnt9dryd60v6ns4g0yn4/DOGEINJ",
+      "inj"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1aenh4rkhl2jyxdkjajr0dctc5fkwrw6zdhuwy8"
+  },
+  {
     "id": "inj1q4k4h0hf3lnpkhr2zafvecwtaeqmae86nq7da7",
     "asset_ids": [
       "factory/inj1utlxkwfxhmfc826gu07w20mvguysavz72edy4n/fbi",
@@ -4958,6 +5078,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "inj1yz86n25dmqlgktm98yasaf7383z9ks3y3csumn"
+  },
+  {
+    "id": "inj1salvmwf4t0lyzuxnzelre099wj2xc0dcwcr0yh",
+    "asset_ids": [
+      "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI",
+      "factory/inj1rmjzj9fn47kdmfk4f3z39qr6czexxe0yjyc546/WGMI"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1e93nzu09ymsfyftf75rk80u5wj7xtghzf92v2r"
   },
   {
     "id": "inj1sc5tmhstuu4hulzl0q0a22n85plhaaq8vkv4nn",
@@ -5978,6 +6108,16 @@
     "dex": "Astroport",
     "type": "xyk",
     "lp_token_id": "inj1dylnn2qz2nwd2pa5gpcpteqfytk7sslax7ezen"
+  },
+  {
+    "id": "inj1zeapuglys08nkm8aytr69yf2twjwkh77hxyztr",
+    "asset_ids": [
+      "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+      "factory/inj13ze65lwstqrz4qy6vvxx3lglnkkuan436aw45e/HACHI"
+    ],
+    "dex": "Astroport",
+    "type": "xyk",
+    "lp_token_id": "inj1xdu0nfancg0xyyl4f58htc8wnw7338w9v05780"
   },
   {
     "id": "inj1zegsh5fkve8n50fvj80m9e9l445cxdt5gkg03c",
